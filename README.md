@@ -3,12 +3,6 @@
 EduAccess is an Ethereum smart contract prototype for transparent educational
 resource access.
 
-## Repository documentation
-
-- [Project report](docs/PROJECT_REPORT.md)
-- [Deployment guide](docs/DEPLOYMENT_GUIDE.md)
-- [Test cases](docs/TEST_CASES.md)
-- [Presentation outline](docs/PRESENTATION_OUTLINE.md)
 
 ## Requirements
 
